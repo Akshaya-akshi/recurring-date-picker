@@ -1,3 +1,5 @@
+'use client';
+
 import { useRecurrenceStore } from '../store/recurrenceStore';
 
 export default function DateSelector() {
