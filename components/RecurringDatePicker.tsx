@@ -1,4 +1,3 @@
-'use client';
 import FrequencySelector from './RecurrenceOptions';
 import DateSelector from './DateSelector';
 import CustomPattern from './CustomPattern';

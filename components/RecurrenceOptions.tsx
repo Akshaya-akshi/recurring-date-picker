@@ -1,4 +1,3 @@
-'use client';
 import { useRecurrenceStore } from '../store/recurrenceStore';
 
 const frequencies = ['daily', 'weekly', 'monthly', 'yearly'] as const;

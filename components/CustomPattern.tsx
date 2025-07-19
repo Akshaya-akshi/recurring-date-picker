@@ -1,4 +1,3 @@
-'use client';
 import { useRecurrenceStore } from '../store/recurrenceStore';
 
 const days = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
